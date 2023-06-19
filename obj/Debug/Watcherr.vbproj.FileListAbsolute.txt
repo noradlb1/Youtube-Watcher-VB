@@ -1,0 +1,3 @@
+C:\Users\MONSTERMC\Downloads\youtube-proxy-viewer-main\youtube-proxy-viewer-main\obj\Debug\Watcherr.Form1.resources
+C:\Users\MONSTERMC\Downloads\youtube-proxy-viewer-main\youtube-proxy-viewer-main\obj\Debug\Watcherr.Proxy.resources
+C:\Users\MONSTERMC\Downloads\youtube-proxy-viewer-main\youtube-proxy-viewer-main\obj\Debug\Watcherr.vbproj.GenerateResource.cache
